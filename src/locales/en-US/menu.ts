@@ -1,5 +1,9 @@
 export default {
   'menu.welcome': 'Welcome',
+  'menu.testCases': 'Test Case',
+  'menu.modelList': 'Model List',
+  'menu.modelDetail': 'Model Detail',
+  'menu.evaluation': 'Evaluation',
   'menu.more-blocks': 'More Blocks',
   'menu.home': 'Home',
   'menu.admin': 'Admin',

@@ -8,12 +8,12 @@ const proSettings: DefaultSettings = {
   navTheme: 'dark',
   // 拂晓蓝
   primaryColor: '#1890ff',
-  layout: 'side',
+  layout: 'mix',
   contentWidth: 'Fluid',
   fixedHeader: false,
   fixSiderbar: true,
   colorWeak: false,
-  title: 'Ant Design Pro',
+  title: 'NMT Dashboard',
   pwa: false,
   iconfontUrl: '',
 };

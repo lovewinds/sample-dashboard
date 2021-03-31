@@ -1,5 +1,8 @@
 export default {
   'menu.welcome': '欢迎',
+  'menu.testCases': 'Test Case',
+  'menu.models': '모델 관리',
+  'menu.evaluation': 'Evaluation',
   'menu.more-blocks': '更多区块',
   'menu.home': '首页',
   'menu.admin': '管理页',

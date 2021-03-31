@@ -30,6 +30,24 @@
             component: './Welcome',
           },
           {
+            path: '/testcases',
+            name: 'testCases',
+            icon: 'smile',
+            component: './TestCases',
+          },
+          {
+            path: '/models',
+            name: 'modelList',
+            icon: 'table',
+            component: './ModelList',
+          },
+          {
+            path: '/model-detail',
+            name: 'modelDetail',
+            icon: 'table',
+            component: './ModelDetail',
+          },
+          {
             path: '/admin',
             name: 'admin',
             icon: 'crown',
